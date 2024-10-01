@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>ttt</div>
+      <div>Nata</div>
     </>
   );
 }
